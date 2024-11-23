@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Movie-Application](https://github.com/MhrzSohin/Movie-Application.git)
 - 🌱 I’m currently learning **Kotlin and Flutter**
-- 👨‍💻 All of my projects are available at   [https://github.com/MhrzSohin](https://github.com/MhrzSohin)
+- 👨‍💻 All of my projects are available at [https://github.com/MhrzSohin](https://github.com/MhrzSohin)
 - 💬 Ask me about **Java, Groovy**
 - 📫 How to reach me **mhrzsohil123@gmail.com**
 
