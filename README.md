@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhrzsohin&show_icons=true&locale=en" alt="mhrzsohin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhrzsohin&" alt="mhrzsohin" /></p>
+<h3 align="left">✨ Top Contributed Repository:</h3>
+<p align="left">
+  <a href="https://github.com/MhrzSohin/Movie-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MhrzSohin&repo=Movie-Application&theme=dracula&show_owner=true&border_radius=8" alt="Movie-Application" />
+  </a>
+</p>
