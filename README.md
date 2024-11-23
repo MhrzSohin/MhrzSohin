@@ -26,17 +26,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Top Contributed Repository:</h3>
-<p align="left">
-  <a href="https://github.com/MhrzSohin/Movie-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MhrzSohin&repo=Movie-Application&theme=radical" alt="Movie-Application" />
-  </a>
-</p>
 
-<h3 align="left">Cool GIF:</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/XIqCmJv48oSww/source.gif" alt="cool-gif" width="300"/>
-</p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhrzsohin&show_icons=true&locale=en&layout=compact" alt="mhrzsohin" /></p>
