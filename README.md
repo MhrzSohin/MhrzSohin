@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhrzsohin&label=Profile%20views&color=0e75b6&style=flat" alt="mhrzsohin" /> </p>
 
-- 🔭 I’m currently working on [Contact Manager App](https://github.com/MhrzSohin/Riddle-App)
+- 🔭 I’m currently working on [Contact_Manager_App](https://github.com/MhrzSohin/Contact_Manager_App)
 - 🌱 I’m currently learning **Kotlin and Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/MhrzSohin](https://github.com/MhrzSohin)
 - 💬 Ask me about **Java, Groovy, PHP**
