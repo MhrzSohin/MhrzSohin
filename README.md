@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MhrzSohin](https://github.com/MhrzSohin)
 
-- 💬 Ask me about **Java,Groovy,Flutter,Dart**
+- 💬 Ask me about **Java, Android**
 
 - 📫 How to reach me **mhrzsohil123@gmail.com**
 
