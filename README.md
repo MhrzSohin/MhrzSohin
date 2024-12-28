@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Movie-Application](https://github.com/MhrzSohin/Movie-Application.git)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MhrzSohin](https://github.com/MhrzSohin)
 
